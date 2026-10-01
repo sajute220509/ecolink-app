@@ -1,0 +1,13 @@
+{
+  "name": "EcoLink — Sundarbans Community Ecotourism",
+  "short_name": "EcoLink",
+  "description": "Connecting Communities, Nature and Tourists.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7f5ed",
+  "theme_color": "#0f5c4d",
+  "orientation": "portrait-primary",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
